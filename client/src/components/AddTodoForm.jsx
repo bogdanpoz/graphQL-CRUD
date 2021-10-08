@@ -16,8 +16,7 @@ const CREATE_TODO = gql`
       complete
     }
   }
-`;
-
+`
 
 export default class AddTodoForm extends Component {
   state = {
